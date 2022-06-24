@@ -1,0 +1,66 @@
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\bin\Debug\oaip1.exe.config
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\bin\Debug\oaip1.exe
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\bin\Debug\oaip1.pdb
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.csproj.AssemblyReference.cache
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\MainWindow.g.cs
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\Prod.g.cs
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\App.g.cs
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1_MarkupCompile.cache
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1_MarkupCompile.lref
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\MainWindow.baml
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\Prod.baml
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.g.resources
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.Properties.Resources.resources
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.csproj.GenerateResource.cache
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.csproj.CoreCompileInputs.cache
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.exe
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\oaip1.pdb
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\Admin.g.cs
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\StarProd.g.cs
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\Admin.baml
+C:\Users\Dedyshka\source\repos\oaip1\oaip1\obj\Debug\StarProd.baml
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\bin\Debug\oaip1.exe.config
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\bin\Debug\oaip1.exe
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\bin\Debug\oaip1.pdb
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.csproj.AssemblyReference.cache
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.csproj.SuggestedBindingRedirects.cache
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\Admin.g.cs
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\MainWindow.g.cs
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\App.g.cs
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1_MarkupCompile.cache
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1_MarkupCompile.lref
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\Admin.baml
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\MainWindow.baml
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.g.resources
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.Properties.Resources.resources
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.csproj.GenerateResource.cache
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.csproj.CoreCompileInputs.cache
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.exe
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\oaip1.pdb
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\Prodavec.g.cs
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\Prodavec.baml
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\StarshiyProdavec.g.cs
+C:\Users\salek\Desktop\Авторизация\oaip1\oaip1\obj\Debug\StarshiyProdavec.baml
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.csproj.AssemblyReference.cache
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.csproj.SuggestedBindingRedirects.cache
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\Admin.g.cs
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\MainWindow.g.cs
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\Prodavec.g.cs
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\StarshiyProdavec.g.cs
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\App.g.cs
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1_MarkupCompile.cache
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1_MarkupCompile.lref
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.exe
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.pdb
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\bin\Debug\oaip1.exe.config
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\bin\Debug\oaip1.exe
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\bin\Debug\oaip1.pdb
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\Admin.baml
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\MainWindow.baml
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\Prodavec.baml
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\StarshiyProdavec.baml
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.g.resources
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.Properties.Resources.resources
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.csproj.GenerateResource.cache
+C:\Users\salek\Desktop\Авторизация + роли\oaip14,06\oaip1\obj\Debug\oaip1.csproj.CoreCompileInputs.cache

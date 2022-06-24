@@ -1,0 +1,42 @@
+﻿<Window x:Class="oaip1.Prodavec"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oaip1"
+        mc:Ignorable="d"
+        Title="Prodavec" Height="650" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+
+        </Grid.RowDefinitions>
+        <TextBox x:Name="FIo" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10,123,10,37" FontFamily="Comic Sans MS"/>
+        <Rectangle Fill="#FF498C51"  Stroke="Black"  Grid.ColumnSpan="3" Margin="0,0,0,163"/>
+        <Rectangle Fill="#FF76E383"  Stroke="Black"  Grid.ColumnSpan="3"  Grid.Row="2" Margin="0,129,0,0"/>
+        <Label Content="№ заказа:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" Margin="86,53,10,106" Grid.Row="1" FontFamily="Comic Sans MS" HorizontalAlignment="Right" />
+        <Label Content="Адрес:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" Margin="86,129,10,28" Grid.Row="1" FontFamily="Comic Sans MS" HorizontalAlignment="Right" />
+        <Label Content="Время создания заказа:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" Margin="10,190,10,178" Grid.Row="1" Grid.RowSpan="2" FontFamily="Comic Sans MS" HorizontalAlignment="Right" />
+        <TextBox x:Name="adres" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10,129,10,28" Grid.Row="1" FontFamily="Comic Sans MS"/>
+        <TextBox x:Name="number_zakaza" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10,53,10,106" Grid.Row="1" FontFamily="Comic Sans MS"/>
+        <TextBox x:Name="time" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10,189,10,178" Grid.Row="1" Grid.RowSpan="2"/>
+        <Label Content="ФИО клиента:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" Margin="86,123,10,37" FontFamily="Comic Sans MS" HorizontalAlignment="Right" />
+        <Button x:Name="back1" Grid.Column="2" Content="Выход" HorizontalAlignment="Left" Margin="193,56,0,0" VerticalAlignment="Top" Height="38" Width="64" Click="Button_back1" FontFamily="Comic Sans MS"/>
+        <Label Content="Время отправки:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" Margin="10,46,10,114" Grid.Row="2" FontFamily="Comic Sans MS" HorizontalAlignment="Right" />
+        <TextBox x:Name="time_zakaza" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10,46,10,114" Grid.Row="2"/>
+        <Label Content="Статус заказа:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" Margin="86,195,10,175" FontFamily="Comic Sans MS" Grid.RowSpan="2" HorizontalAlignment="Right" />
+        <TextBox x:Name="status" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10,195,10,175" FontFamily="Comic Sans MS" Grid.RowSpan="2"/>
+        <Label x:Name="zakaz" Grid.Column="1" Content="Оформление заказа:" Margin="0,48,0,0" VerticalAlignment="Top" Height="65" HorizontalAlignment="Center" FontFamily="Comic Sans MS" FontSize="24"/>
+
+    </Grid>
+</Window>
